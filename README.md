@@ -7,10 +7,11 @@ This project showcases how to control a **28BYJ-48 stepper motor** using an **ES
 The code and schematic are based on my YouTube tutorial. If you're new to this, make sure to watch the video before diving into the code.
 
 🎥 **Watch the full tutorial here: V1**  
-[ESP32 + ILI9341 + Stepper Motor Control](https://youtu.be/Szm2ziKMi20)
+
+[![V2](https://img.youtube.com/vi/Szm2ziKMi20/0.jpg)](https://youtu.be/Szm2ziKMi20)
 
 🎥 **Watch the full tutorial here: V2** 
-📹 [Watch the YouTube video](https://youtu.be/vlZQBQYyaFM)
+[![V2](https://img.youtube.com/vi/vlZQBQYyaFM/0.jpg)](https://youtu.be/vlZQBQYyaFM)
 
 ## ✨ Features
 
